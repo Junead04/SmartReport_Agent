@@ -1,11 +1,14 @@
-# IMPORTANT — Never commit config.py with real API keys to GitHub
-config.py
-
 # Python
 __pycache__/
 *.pyc
 *.pyo
 .env
+
+# Keep config.py in git — secrets are read from st.secrets on cloud
+# config.py  ← intentionally NOT ignored
+
+# Local secrets file — never commit this
+.streamlit/secrets.toml
 
 # Project outputs
 reports/
@@ -15,8 +18,4 @@ reports/
 
 # Mac
 .DS_Store
-
-.streamlit/secrets.toml
-
-venv/
-
+.venv/
