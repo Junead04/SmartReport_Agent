@@ -1,0 +1,36 @@
+date,department,metric,value,threshold,status
+2024-01-01,Engineering,Bug Resolution Rate,87.5,85,normal
+2024-01-01,Engineering,Deployment Frequency,4,3,normal
+2024-01-01,Customer Support,Ticket Resolution Time,3.2,4,normal
+2024-01-01,Customer Support,CSAT Score,91.2,88,normal
+2024-01-01,Finance,Invoice Processing Time,2.1,2,anomaly
+2024-01-02,Engineering,Bug Resolution Rate,79.3,85,anomaly
+2024-01-02,Engineering,Deployment Frequency,2,3,anomaly
+2024-01-02,Customer Support,Ticket Resolution Time,5.8,4,anomaly
+2024-01-02,Customer Support,CSAT Score,83.4,88,anomaly
+2024-01-02,Finance,Invoice Processing Time,1.8,2,normal
+2024-01-03,Engineering,Bug Resolution Rate,92.1,85,normal
+2024-01-03,Engineering,Deployment Frequency,5,3,normal
+2024-01-03,Customer Support,Ticket Resolution Time,2.9,4,normal
+2024-01-03,Customer Support,CSAT Score,94.7,88,normal
+2024-01-03,Finance,Invoice Processing Time,3.5,2,anomaly
+2024-01-04,Engineering,Bug Resolution Rate,88.6,85,normal
+2024-01-04,Engineering,Deployment Frequency,3,3,normal
+2024-01-04,Customer Support,Ticket Resolution Time,4.1,4,anomaly
+2024-01-04,Customer Support,CSAT Score,89.2,88,normal
+2024-01-04,Finance,Invoice Processing Time,1.9,2,normal
+2024-01-05,Engineering,Bug Resolution Rate,71.2,85,anomaly
+2024-01-05,Engineering,Deployment Frequency,1,3,anomaly
+2024-01-05,Customer Support,Ticket Resolution Time,6.3,4,anomaly
+2024-01-05,Customer Support,CSAT Score,78.9,88,anomaly
+2024-01-05,Finance,Invoice Processing Time,4.2,2,anomaly
+2024-01-06,Engineering,Bug Resolution Rate,95.3,85,normal
+2024-01-06,Engineering,Deployment Frequency,6,3,normal
+2024-01-06,Customer Support,Ticket Resolution Time,3.0,4,normal
+2024-01-06,Customer Support,CSAT Score,96.1,88,normal
+2024-01-06,Finance,Invoice Processing Time,1.7,2,normal
+2024-01-07,Engineering,Bug Resolution Rate,84.2,85,anomaly
+2024-01-07,Engineering,Deployment Frequency,3,3,normal
+2024-01-07,Customer Support,Ticket Resolution Time,3.8,4,normal
+2024-01-07,Customer Support,CSAT Score,90.5,88,normal
+2024-01-07,Finance,Invoice Processing Time,2.3,2,anomaly

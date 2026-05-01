@@ -1,0 +1,22 @@
+# IMPORTANT — Never commit config.py with real API keys to GitHub
+config.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Project outputs
+reports/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+.streamlit/secrets.toml
+
+venv/
+
