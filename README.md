@@ -147,17 +147,7 @@ date,department,metric,value,threshold,status
 
 ---
 
-## 💡 Interview Talking Points
-
-When asked about this project, explain:
-- **Why Z-Score + IQR?** → Two methods catch different anomaly patterns; Z-score is good for normally distributed data, IQR is robust to outliers
-- **Why Groq over OpenAI?** → Free tier, ultra-fast inference (LPU hardware), llama3 is production-quality
-- **What is the agent doing?** → It orchestrates 3 sub-tasks: detect → analyze → narrate; each is modular
-- **How would you scale this?** → Add scheduled jobs (APScheduler/Airflow), connect to real databases (PostgreSQL), add Slack/Teams webhooks
-
----
-
-## 🔮 Future Enhancements (for interviews)
+## 🔮 Future Enhancements 
 - Connect to live databases (PostgreSQL, BigQuery)
 - Add APScheduler for automated hourly/daily runs
 - Slack/Teams webhook integration
@@ -165,5 +155,3 @@ When asked about this project, explain:
 - Fine-tuned domain-specific LLM for finance reports
 
 ---
-
-*SmartReport Agent · Portfolio Project · Inspired by Sash.AI OrchestrAI Suite*
