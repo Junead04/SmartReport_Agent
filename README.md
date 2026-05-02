@@ -107,6 +107,8 @@ The app opens at **http://localhost:8501**
 
 ---
 
+Streamlit live app:https://smartreport-agent.streamlit.app/
+
 ## 🎯 How to Use
 
 1. **Enter Groq API Key** in the sidebar (or leave blank for offline mode)
